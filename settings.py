@@ -1,2 +1,0 @@
-API_KEY = "5423883140:AAFARewisst8P4hwrF3i7YstRUVOqiND7_0"
-PHRASES_FILE = "phrases.txt"
